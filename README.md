@@ -1,2 +1,3 @@
 # Procesos-Estocasticos
-Programa caminata simple en R 
+periodo octubre-marzo  2021 
+PAO5
